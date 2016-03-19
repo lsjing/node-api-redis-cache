@@ -1,0 +1,21 @@
+{
+  "name": "node-redis-cache",
+  "version": "1.0.0",
+  "description": "Building faster APIs with NodeJs and redis as a cache",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "redis"
+  ],
+  "author": "Fady Makram",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "express": "^4.13.4",
+    "redis": "^2.5.2",
+    "response-time": "^2.3.1"
+  }
+}
